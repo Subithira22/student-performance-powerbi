@@ -15,15 +15,11 @@ This project analyzes student performance using Power BI.
 - Excel
 
 
-# Screenshots
-
-![Dashboard](dashboard.png)
-
 # Key Insights
 - High attendance leads to better performance
 - Some subjects have low average scores
 
-#
+#  Screenshots
 <img width="1335" height="759" alt="dashboard" src="https://github.com/user-attachments/assets/3208e24f-9328-4ba8-9b0b-27f4b39cff54" />
 <img width="626" height="566" alt="chart6" src="https://github.com/user-attachments/assets/a9497fe0-0c8e-4278-a469-b3ce6d8fc904" />
 <img width="905" height="640" alt="chart5" src="https://github.com/user-attachments/assets/a105e7b8-69ff-4230-a31f-1d23c8a7d23f" />
