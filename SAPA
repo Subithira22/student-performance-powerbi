@@ -3,7 +3,7 @@
   "artifacts": [
     {
       "report": {
-        "path": "SAPA-POWERBI.Report"
+        "path": "modified.project.Report"
       }
     }
   ],
