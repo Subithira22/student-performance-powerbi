@@ -14,6 +14,7 @@ This project analyzes student performance using Power BI.
 - Power BI
 - Excel
 
+
 # Screenshots
 
 ![Dashboard](dashboard.png)
